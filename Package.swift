@@ -28,8 +28,8 @@ extension [Package.Dependency] {
 	static var tonkui: [Package.Dependency] {
 		[
 			.package(url: "git@github.com:ivalx1s/tonkui-materials-ios.git", from: "0.1.0"),
-			.package(url: "git@github.com:ivalx1s/tonkui-fonts-ios.git", from: "0.1.1"),
-			.package(url: "git@github.com:ivalx1s/swiftui-pageview.git", from: "0.4.1"),
+			.package(url: "git@github.com:ivalx1s/tonkui-fonts-ios.git", from: "0.1.2"),
+			.package(url: "git@github.com:ivalx1s/swiftui-pageview.git", from: "0.4.2"),
 			.package(url: "git@github.com:ivalx1s/swiftui-plus.git", from: "0.2.0"),
 		]
 	}
